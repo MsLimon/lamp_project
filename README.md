@@ -10,9 +10,8 @@ The LEDs were ordered in two lamps according to the following scheme:
 <img src="./images/lamp_led_indices.jpg"> 
 
 The end result looks like this:
-<img src="./images/lamp_pic_sequence_1.png"> 
-<img src="./images/lamp_pic_sequence_2.png"> 
-<img src="./images/lamp_pic_sequence_3.png"> 
+
+![LED-lamp_GIF](./images/lamp_vid.gif)
 
 
 ## LEDs info:
